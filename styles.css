@@ -4,10 +4,12 @@ body{
 }
 
 h2{
-  border:solid purple 10px ;
+  border:double blue 3px ;
 }
 
 h1{
-    border:dotted blue 10px ;
-    color:purple;
+    text-align: center; 
+    color:purple; 
+    border-style: double 3px;
+    background-color:lightblue;
 }
