@@ -3,15 +3,11 @@ body{
     background-color:pink;
 }
 
-p{
-  border:double blue ;
+h2{
+  border:solid purple 10px ;
 }
 
-h2{
-  border:solid purple ;
-}
 h1{
-    border:solid blue ;
+    border:dotted blue 10px ;
     color:purple;
-    
 }
