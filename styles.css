@@ -1,0 +1,17 @@
+body{
+    text-align:center;
+    background-color:pink;
+}
+
+p{
+  border:double blue ;
+}
+
+h2{
+  border:solid purple ;
+}
+h1{
+    border:solid blue ;
+    color:purple;
+    
+}
