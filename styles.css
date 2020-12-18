@@ -6,13 +6,11 @@ body{
 
 
 
-.head{
+.h1{
     text-align: center; 
     color:white; 
     border: double black 3px;
-    background-color:black;
+    background-color:grey;
 }
 
-h1{
-  color:white; 
-}
+
