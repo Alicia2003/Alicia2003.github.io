@@ -9,13 +9,13 @@ body{
 
 .head{
     text-align: center; 
-    color:#ddd3ee; 
+    color:purple; 
     border: double black 3px;
     background-color:grey;
 }
 
 .contact{
-color:#ddd3ee;
+color:purple;
 border: double black 3px;
 background-color:grey;
 }
