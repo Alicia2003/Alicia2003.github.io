@@ -1,7 +1,7 @@
 body{
     text-align:center;
-    background-color:grey;
-    color:white;
+    background-color:#fefbd8;
+    color:black;
 }
 
 
@@ -10,5 +10,5 @@ h1{
     text-align: center; 
     color:purple; 
     border: double 3px;
-    background-color:#fefbd8;
+    background-color:grey;
 }
