@@ -2,6 +2,7 @@ body{
     text-align:center;
     background-color:#CDCDCD;
     color:black;
+    border: double black 3px;
 }
 
 
@@ -15,4 +16,5 @@ h1{
 
 .contacts{
 color:purple;
+border: double black 3px;
 }
